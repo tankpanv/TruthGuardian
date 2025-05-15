@@ -1,0 +1,106 @@
+<resources>
+    <string name="app_name">TruthGuardian</string>
+    <string name="title_home">热点</string>
+    <string name="title_dashboard">探索</string>
+    <string name="title_notifications">消息</string>
+    <string name="title_profile">我的</string>
+    
+    <!-- 登录和注册相关字符串 -->
+    <string name="app_slogan">守护真相，传递真知</string>
+    <string name="login">登录</string>
+    <string name="register">注册新账号</string>
+    <string name="email_hint">邮箱地址</string>
+    <string name="password_hint">密码</string>
+    <string name="email_login">或使用邮箱登录</string>
+    <string name="terms_of_service">服务条款</string>
+    <string name="privacy_policy">隐私政策</string>
+    <string name="register_title">注册新账号</string>
+    <string name="username_hint">用户名</string>
+    <string name="name_hint">称呼</string>
+    <string name="phone_hint">手机号码</string>
+    <string name="confirm_password_hint">确认密码</string>
+    <string name="agree_terms">登录即表示您同意我们的</string>
+    <string name="and">和</string>
+    
+    <!-- 个人资料页面字符串 -->
+    <string name="profile_not_logged_in">请登录以查看个人资料</string>
+    <string name="profile_login_button">去登录</string>
+    <string name="profile_created_events">已发布辟谣</string>
+    <string name="profile_joined_events">已参与讨论</string>
+    <string name="profile_friends">关注</string>
+    <string name="profile_credit_score">真相信誉分</string>
+    <string name="profile_interests">关注领域</string>
+    <string name="profile_upcoming_events">待处理举报</string>
+    <string name="logout">退出登录</string>
+    <string name="settings">设置</string>
+    <string name="my_account">我的账号</string>
+    <string name="notification_settings">通知设置</string>
+    <string name="privacy_settings">隐私设置</string>
+    <string name="help_and_feedback">帮助与反馈</string>
+    <string name="about_us">关于我们</string>
+    
+    <!-- 辟谣管理相关字符串 -->
+    <string name="debunk_management">辟谣管理</string>
+    <string name="create_debunk">创建辟谣文章</string>
+    <string name="my_debunk_articles">我的辟谣文章</string>
+    <string name="view_all_articles">查看全部文章</string>
+    <string name="article_status_published">已发布</string>
+    <string name="article_status_draft">草稿</string>
+    <string name="article_status_archived">已归档</string>
+    <string name="create_article">创建辟谣文章</string>
+    <string name="edit_article">编辑辟谣文章</string>
+    <string name="article_title">文章标题</string>
+    <string name="article_content">文章内容</string>
+    <string name="article_summary">简要概述</string>
+    <string name="article_source">信息来源</string>
+    <string name="article_tags">标签</string>
+    <string name="rumor_reports">谣言报告</string>
+    <string name="clarification_reports">辟谣依据</string>
+    <string name="save_as_draft">保存为草稿</string>
+    <string name="publish">发布</string>
+    <string name="update">更新</string>
+    <string name="archive">归档</string>
+    <string name="delete">删除</string>
+    <string name="confirm_delete">确定要删除吗？</string>
+    <string name="confirm">确定</string>
+    <string name="cancel">取消</string>
+    <string name="search_hint">搜索辟谣文章...</string>
+    <string name="views">浏览量</string>
+    <string name="likes">点赞</string>
+    <string name="created_at">创建时间</string>
+    <string name="updated_at">更新时间</string>
+    <string name="author">作者</string>
+    <string name="comments">评论</string>
+    <string name="no_articles">暂无文章</string>
+    <string name="loading">加载中...</string>
+    <string name="error_load_failed">加载失败，请重试</string>
+    <string name="error_network">网络错误，请检查网络连接</string>
+    <string name="operation_success">操作成功</string>
+    <string name="operation_failed">操作失败</string>
+    
+    <!-- 辟谣相关字符串 -->
+    <string name="news_category_politics">政治</string>
+    <string name="news_category_health">健康</string>
+    <string name="news_category_science">科学</string>
+    <string name="news_category_technology">科技</string>
+    <string name="news_category_environment">环境</string>
+    <string name="news_category_finance">财经</string>
+    
+    <string name="fact_checking_result_true">确认属实</string>
+    <string name="fact_checking_result_false">证实为谣言</string>
+    <string name="fact_checking_result_mixed">部分属实</string>
+    <string name="fact_checking_result_unverified">待核实</string>
+    
+    <string name="fact_check_source">辟谣来源</string>
+    <string name="fact_check_date">核查日期</string>
+    <string name="fact_check_rating">真实度评分</string>
+    <string name="fact_check_summary">真相简述</string>
+    <string name="fact_check_detailed">详细分析</string>
+    <string name="report_rumor">举报谣言</string>
+    <string name="share_fact">分享真相</string>
+    <string name="follow_topic">关注话题</string>
+    <string name="discuss">参与讨论</string>
+    
+    <!-- 消息相关 -->
+    <string name="title_message_detail">消息详情</string>
+</resources>

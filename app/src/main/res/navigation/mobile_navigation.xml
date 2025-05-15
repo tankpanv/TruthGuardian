@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_home">
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="com.example.truthguardian.ui.home.HomeFragment"
+        android:label="@string/title_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/navigation_visualization"
+        android:name="com.example.truthguardian.ui.visualization.VisualizationFragment"
+        android:label="数据分析"
+        tools:layout="@layout/fragment_visualization" />
+
+    <fragment
+        android:id="@+id/navigation_message"
+        android:name="com.example.truthguardian.ui.message.MessageFragment"
+        android:label="消息"
+        tools:layout="@layout/fragment_message" />
+        
+    <fragment
+        android:id="@+id/navigation_profile"
+        android:name="com.example.truthguardian.ui.profile.ProfileFragment"
+        android:label="@string/title_profile"
+        tools:layout="@layout/fragment_profile" />
+</navigation>
